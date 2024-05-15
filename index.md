@@ -17,3 +17,13 @@ import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error
 ```
+
+Creation of list of tasks for Starting a Machine Learning Project
+- [ ] Start a Jupyter Kernel
+- [ ] Import Necessary Libraries
+- [ ] Start Data Cleaning
+- [ ] Data Normalization
+- [ ] Model Building
+- [ ] Model Fitting
+- [ ] Model Evaluation
+- [ ] Documentation
